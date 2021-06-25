@@ -1,0 +1,41 @@
+/*HTML */
+
+<h1>lista de compras</h1>
+
+<p1 class="solid"></p1>
+
+<p2 class="search"><b>salvar</b><p2>
+
+<p><b><li>Arroz<li>Bolacha<li>Maça<li>Banana<li>Limao</b></p>
+
+
+
+/*CSS*/
+
+body{
+
+ font-family:verdana;
+
+ }
+
+ p1.solid{border-style:solid;}
+
+ p1.solid{padding:1px 100px;}
+
+ p1.solid{border-color:#808080;}
+
+ p1.solid{border-radius:2px;}
+
+  
+
+p2.search{border-style:solid;}
+
+p2.search{border-color:#808080;}
+
+p2.search{border-radius:2px;}
+
+p2.search{padding:1px}
+
+p2.search{margin:4px}
+
+p2.search{background-color:#cccccc;}
